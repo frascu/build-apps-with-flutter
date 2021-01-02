@@ -29,6 +29,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
 
+  english_words: ^3.1.5   # you can find a public package here -> https://pub.dev/flutter/packages
+  # running "flutter packages get" you download the packages you added.
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
